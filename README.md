@@ -1,1 +1,1 @@
-# LeetCode-Practice-Solutions
+# LeetCode-Solutions-Technical-Interview-Prep
